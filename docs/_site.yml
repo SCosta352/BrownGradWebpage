@@ -15,5 +15,7 @@ navbar:
           href: ChiSq.html
         - text: "Notation"
           href: Notation.html
-remote_theme: pages-themes/modernist@v0.2.0
+
+theme: jekyll-theme-minimal
+
 
