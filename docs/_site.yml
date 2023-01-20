@@ -15,4 +15,4 @@ navbar:
           href: ChiSq.html
         - text: "Notation"
           href: Notation.html
-theme: minima
+theme: modernist
